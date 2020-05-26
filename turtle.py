@@ -1,3 +1,4 @@
+# encoding= utf-8
 import turtle as te
 import time
 WriteStep = 150  # 贝塞尔函数的取样次数
