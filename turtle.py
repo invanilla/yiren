@@ -144,7 +144,7 @@ def smooth_r(x2, y2, x, y):  # 平滑三阶贝塞尔曲线到相对坐标（x，
     Xh = x - x2
     Yh = y - y2
 
-te.tracer(10)
+te.trace(10)
 te.setup(Width, Height, 0, 0)
 te.pensize(1)
 te.speed(Speed)
